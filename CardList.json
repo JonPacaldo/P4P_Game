@@ -31,4 +31,35 @@
     "type": "Attack",
     "cost": 0
   }
+   "P4P_3": {
+    "id": "P4P_3",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "",
+        "type": false,
+        "cost": 0,
+        "image": "https://jonpacaldo.github.io/P4P_Game/Bayani/Right_Cross.jpg",
+        "isHorizontal": false
+      }
+    },
+    "name": "Right Cross",
+    "type": "Attack",
+    "cost": 0
+   }
+   "P4P_4": {
+    "id": "P4P_4",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "",
+        "type": false,
+        "cost": 0,
+        "image": "https://jonpacaldo.github.io/P4P_Game/Bayani/Low_Jab.jpg",
+        "isHorizontal": false
+      }
+    },
+    "name": "Low Jab",
+    "type": "Attack",
+    "cost": 0
 }
