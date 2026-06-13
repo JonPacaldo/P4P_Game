@@ -7,7 +7,7 @@
     ],
     "decksUrl": ""
   },
-  "customHelp": "WIP",
+  "customHelp": "",
   "cardRotation": "90",
   "cards": {
     "dataUrl": "https://jonpacaldo.github.io/P4P_Game/CardList.json",
@@ -242,11 +242,11 @@
             "title": "Starting Action",
             "isHidden": "yes",
             "height": "MEDIUM",
-            "alignment": "START",
+            "alignment": "CENTER",
             "opponentAlignment": false,
             "noAutoPayTo": "true",
             "isHorizontalAllowed": false,
-            "displayedTitle": "Ressources",
+            "displayedTitle": "Starting Action",
             "enterTapped": false,
             "enterSpun": false,
             "isGroupForbidden": false,
