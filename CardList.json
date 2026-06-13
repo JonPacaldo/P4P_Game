@@ -1,0 +1,34 @@
+{
+  "P4P_1": {
+    "id": "P4P_1",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "",
+        "type": false,
+        "cost": 0,
+        "image": "https://jonpacaldo.github.io/P4P_Game/Bayani/Bayani.jpg",
+        "isHorizontal": false
+      }
+    },
+    "name": "Bayani",
+    "type": "Fighter",
+    "cost": 0
+  },
+  "P4P_2": {
+    "id": "P4P_2",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "",
+        "type": false,
+        "cost": 0,
+        "image": "https://jonpacaldo.github.io/P4P_Game/Bayani/Jab.jpg",
+        "isHorizontal": false
+      }
+    },
+    "name": "Jab",
+    "type": "Attack",
+    "cost": 0
+  }
+}
