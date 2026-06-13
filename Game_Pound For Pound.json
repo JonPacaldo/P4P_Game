@@ -1,5 +1,5 @@
 {
-  "name": "Pound For Pound",
+  "name": "P4P",
   "menuBackgroundImage": "https://jonpacaldo.github.io/P4P_Game/Col Small.png",
   "defaultRessources": {
     "backgrounds": [
@@ -20,14 +20,14 @@
     ],
     "formats": [
       {
-        "title": "Standard 1v1",
-        "gameplay": "Standard 1v1",
+        "title": "Standard",
+        "gameplay": "Standard",
         "customCategories": []
       }
     ]
   },
   "gameplay": {
-    "Standard 1v1": {
+    "Standard": {
       "mulligan": {
         "info": "Exhaust 2",
         "startingHandSize": "6",
@@ -37,14 +37,14 @@
       },
       "newTurn": {
         "drawOnStart": false,
-        "sharedTurn": true,
-        "firstPlayerTokenName": "1st",
+        "sharedTurn": false,
+        "firstPlayerTokenName": "",
         "drawPerTurn": 1
       },
       "defaultNotes": "",
       "tokens": [
         {
-          "name": "1st",
+          "name": "",
           "image": "",
           "isUnique": true,
           "leavesAtEndOfTurn": false
