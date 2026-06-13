@@ -52,8 +52,7 @@
         }
       ],
       "countersStartingValues": [
-        "1",
-        "2"
+        "0"
       ],
       "hideFacedDownCards": false,
       "sections": {
