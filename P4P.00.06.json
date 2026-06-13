@@ -71,15 +71,15 @@
           "content": [
             {
               "direction": "row",
-              "style": false,
+              "": false,
               "content": [
                 {
                   "section": "Adrenaline",
-                  "style": false
+                  "": false
                 },
                 {
                   "section": "Starting Action",
-                  "style": false
+                  "": false
                 },
                 {
                   "section": "Endurance",
@@ -94,11 +94,11 @@
               "content": [
                 {
                   "section": "Training",
-                  "style": false
+                  "style": "Width": 250
                 },
                 {
                   "section": "Fighter",
-                  "style": false
+                  "style": "Width": 250
                 },
                 {
                   "section": "Defense",
