@@ -93,11 +93,11 @@
               "content": [
                 {
                   "section": "Training",
-                  "style": "width":300
+                  "style": false
                 },
                 {
                   "section": "Fighter",
-                  "style": "width":300
+                  "style": false
                 },
                 {
                   "section": "Defense",
