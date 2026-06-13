@@ -1,5 +1,5 @@
 {
-  "name": "Pound For Pound",
+  "name": "P4P",
   "menuBackgroundImage": "https://jonpacaldo.github.io/P4P_Game/Col Small.png",
   "defaultRessources": {
     "backgrounds": [
@@ -16,7 +16,8 @@
   "deckBuilding": {
     "mainFilters": [
       "Fighter",
-      "Attack"
+      "Attack",
+      "Defense"
     ],
     "formats": [
       {
@@ -60,7 +61,9 @@
           "Starting Action",
           "Training",
           "Adrenaline",
-          "Fighter"
+          "Fighter",
+          "Defense",
+          "Endurance"
         ],
         "layout": {
           "direction": "column",
@@ -90,11 +93,11 @@
               "style": false,
               "content": [
                 {
-                  "section": "Fighter",
+                  "section": "Training",
                   "style": false
                 },
                 {
-                  "section": "Training",
+                  "section": "Fighter",
                   "style": false
                 },
                 {
@@ -270,7 +273,7 @@
           "Training": {
             "title": "Training",
             "isHidden": "no",
-            "height": "MEDIUM",
+            "height": "SMALL",
             "alignment": "CENTER",
             "opponentAlignment": false,
             "noAutoPayTo": false,
@@ -286,7 +289,39 @@
           "Adrenaline": {
             "title": "Adrenaline",
             "isHidden": "no",
-            "height": "MEDIUM",
+            "height": "SMALL",
+            "alignment": "CENTER",
+            "opponentAlignment": false,
+            "noAutoPayTo": false,
+            "isHorizontalAllowed": true,
+            "displayedTitle": "",
+            "noQuickActions": false,
+            "enterTapped": false,
+            "enterSpun": false,
+            "isGroupForbidden": false,
+            "keepTappedNewTurn": false,
+            "showHiddenCardInHistory": false
+          },
+          "Defense": {
+            "title": "Defense",
+            "isHidden": "yes",
+            "height": "SMALL",
+            "alignment": "CENTER",
+            "opponentAlignment": false,
+            "noAutoPayTo": false,
+            "isHorizontalAllowed": true,
+            "displayedTitle": "",
+            "noQuickActions": false,
+            "enterTapped": false,
+            "enterSpun": false,
+            "isGroupForbidden": false,
+            "keepTappedNewTurn": false,
+            "showHiddenCardInHistory": false
+          },
+          "Endurance": {
+            "title": "Endurance",
+            "isHidden": "no",
+            "height": "SMALL",
             "alignment": "CENTER",
             "opponentAlignment": false,
             "noAutoPayTo": false,
