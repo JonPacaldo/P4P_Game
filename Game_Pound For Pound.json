@@ -1,0 +1,118 @@
+{
+  "name": "Pound For Pound",
+  "menuBackgroundImage": "https://jonpacaldo.github.io/P4P_Game/Col Small.png",
+  "defaultRessources": {
+    "backgrounds": [
+      "https://jonpacaldo.github.io/P4P_Game/Col Small.png"
+    ],
+    "decksUrl": ""
+  },
+  "customHelp": "WIP",
+  "cardRotation": "90",
+  "cards": {
+    "dataUrl": "https://jonpacaldo.github.io/P4P_Game/CardList.json",
+    "cardBack": "https://jonpacaldo.github.io/P4P_Game/Card Back.png"
+  },
+  "deckBuilding": {
+    "mainFilters": [
+      "Fighter",
+      "Attack"
+    ],
+    "formats": [
+      {
+        "title": "Standard 1v1",
+        "gameplay": "Standard 1v1",
+        "customCategories": []
+      }
+    ]
+  },
+  "gameplay": {
+    "Standard 1v1": {
+      "mulligan": {
+        "info": "Exhaust 2",
+        "startingHandSize": "6",
+        "drawNewHand": false,
+        "putSelectionAtBottom": false,
+        "drawNewSelectedCards": false
+      },
+      "newTurn": {
+        "drawOnStart": false,
+        "sharedTurn": true,
+        "firstPlayerTokenName": "1st",
+        "drawPerTurn": 1
+      },
+      "defaultNotes": "",
+      "tokens": [
+        {
+          "name": "1st",
+          "image": "",
+          "isUnique": true,
+          "leavesAtEndOfTurn": false
+        }
+      ],
+      "countersStartingValues": [
+        "1",
+        "2"
+      ],
+      "hideFacedDownCards": false,
+      "sections": {
+        "customSections": [
+          "Starting Action",
+          "Defense"
+        ],
+        "layout": {
+          "direction": "column",
+          "isSymetricalForOpponents": false,
+          "content": [
+            {
+              "section": "Starting Action",
+              "style": false
+            },
+            {
+              "direction": "row",
+              "style": false,
+              "content": [
+                {
+                  "section": "Fighter",
+                  "style": {
+                    "width": 250
+                  }
+                },
+                {
+                  "section": "Defense",
+                  "style": false
+                }
+              ],
+              "isSymetricalForOpponents": false
+            }
+          ]
+        },
+        "categoriesAlreadyOnBoard": [
+          "Fighter"
+        ],
+        "autoPlayFromHand": {
+          "Attack": "Starting Action"
+        },
+        "autoPlayFromStack": {},
+        "sectionsDict": {
+          "Starting Action": {
+            "title": "Starting Action",
+            "isHidden": "yes",
+            "height": "MEDIUM",
+            "alignment": "START",
+            "opponentAlignment": false,
+            "noAutoPayTo": "true",
+            "isHorizontalAllowed": false,
+            "displayedTitle": "Ressources",
+            "enterTapped": false,
+            "enterSpun": false,
+            "isGroupForbidden": false,
+            "keepTappedNewTurn": false,
+            "showHiddenCardInHistory": false,
+            "noQuickActions": false
+          }
+        }
+      }
+    }
+  }
+}
