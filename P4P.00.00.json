@@ -245,7 +245,7 @@
             "opponentAlignment": false,
             "noAutoPayTo": "true",
             "isHorizontalAllowed": false,
-            "displayedTitle": "Ressources",
+            "displayedTitle": "Starting Action",
             "enterTapped": false,
             "enterSpun": false,
             "isGroupForbidden": false,
@@ -256,7 +256,7 @@
           "Fighter": {
             "title": "Fighter",
             "isHidden": "no",
-            "height": "MEDIUM",
+            "height": "SMALL",
             "alignment": "CENTER",
             "opponentAlignment": false,
             "noAutoPayTo": false,
@@ -272,7 +272,7 @@
           "Training": {
             "title": "Training",
             "isHidden": "no",
-            "height": "MEDIUM",
+            "height": "SMALL",
             "alignment": "CENTER",
             "opponentAlignment": false,
             "noAutoPayTo": false,
@@ -288,7 +288,7 @@
           "Adrenaline": {
             "title": "Adrenaline",
             "isHidden": "no",
-            "height": "MEDIUM",
+            "height": "SMALL",
             "alignment": "CENTER",
             "opponentAlignment": false,
             "noAutoPayTo": false,
