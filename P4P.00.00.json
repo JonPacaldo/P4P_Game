@@ -1,9 +1,9 @@
 {
   "name": "Pound for Pound",
-  "menuBackgroundImage": "https://jonpacaldo.github.io/P4P_Game/Col MEDIUM.png",
+  "menuBackgroundImage": "https://jonpacaldo.github.io/P4P_Game/Col small.png",
   "defaultRessources": {
     "backgrounds": [
-      "https://jonpacaldo.github.io/P4P_Game/Col MEDIUM.png"
+      "https://jonpacaldo.github.io/P4P_Game/Col small.png"
     ],
     "decksUrl": ""
   },
@@ -75,7 +75,7 @@
                 {
                   "section": "Adrenaline",
                   "style": {
-                    "width": 200
+                    "width": 300
                   }
                 },
                 {
@@ -85,7 +85,7 @@
                 {
                   "section": "Endurance",
                   "style": {
-                    "width": 200
+                    "width": 300
                   }
                 }
               ],
@@ -98,13 +98,13 @@
                 {
                   "section": "Training",
                   "style": {
-                    "width": 200
+                    "width": 100
                   }
                 },
                 {
                   "section": "Fighter",
                   "style": {
-                    "width": 200
+                    "width": 100
                   }
                 },
                 {
@@ -249,11 +249,11 @@
             "title": "Starting Action",
             "isHidden": "yes",
             "height": "MEDIUM",
-            "alignment": "START",
+            "alignment": "CENTER",
             "opponentAlignment": false,
             "noAutoPayTo": "true",
             "isHorizontalAllowed": false,
-            "displayedTitle": "Ressources",
+            "displayedTitle": "Starting Action / Combo",
             "enterTapped": false,
             "enterSpun": false,
             "isGroupForbidden": false,
