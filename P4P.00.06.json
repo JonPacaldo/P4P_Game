@@ -1,13 +1,13 @@
 {
-  "name": "Pound for Pound",
-  "menuBackgroundImage": "https://jonpacaldo.github.io/P4P_Game/Col MEDIUM.png",
+  "name": "P4P",
+  "menuBackgroundImage": "https://jonpacaldo.github.io/P4P_Game/Col Small.png",
   "defaultRessources": {
     "backgrounds": [
-      "https://jonpacaldo.github.io/P4P_Game/Col MEDIUM.png"
+      "https://jonpacaldo.github.io/P4P_Game/Col Small.png"
     ],
     "decksUrl": ""
   },
-  "customHelp": "",
+  "customHelp": "WIP",
   "cardRotation": "90",
   "cards": {
     "dataUrl": "https://jonpacaldo.github.io/P4P_Game/CardList.json",
@@ -52,7 +52,8 @@
         }
       ],
       "countersStartingValues": [
-        "0"
+        "1",
+        "2"
       ],
       "hideFacedDownCards": false,
       "sections": {
@@ -70,15 +71,15 @@
           "content": [
             {
               "direction": "row",
-              "": false,
+              "style": false,
               "content": [
                 {
                   "section": "Adrenaline",
-                  "": false
+                  "style": false
                 },
                 {
                   "section": "Starting Action",
-                  "": false
+                  "style": false
                 },
                 {
                   "section": "Endurance",
@@ -93,11 +94,11 @@
               "content": [
                 {
                   "section": "Training",
-                  "style": "Width": 250
+                  "style": false
                 },
                 {
                   "section": "Fighter",
-                  "style": "Width": 250
+                  "style": false
                 },
                 {
                   "section": "Defense",
@@ -241,11 +242,11 @@
             "title": "Starting Action",
             "isHidden": "yes",
             "height": "MEDIUM",
-            "alignment": "CENTER",
+            "alignment": "START",
             "opponentAlignment": false,
             "noAutoPayTo": "true",
             "isHorizontalAllowed": false,
-            "displayedTitle": "Starting Action",
+            "displayedTitle": "Ressources",
             "enterTapped": false,
             "enterSpun": false,
             "isGroupForbidden": false,
@@ -272,7 +273,7 @@
           "Training": {
             "title": "Training",
             "isHidden": "no",
-            "height": "MEDIUM",
+            "height": "SMALL",
             "alignment": "CENTER",
             "opponentAlignment": false,
             "noAutoPayTo": false,
@@ -288,7 +289,7 @@
           "Adrenaline": {
             "title": "Adrenaline",
             "isHidden": "no",
-            "height": "MEDIUM",
+            "height": "SMALL",
             "alignment": "CENTER",
             "opponentAlignment": false,
             "noAutoPayTo": false,
@@ -304,7 +305,7 @@
           "Defense": {
             "title": "Defense",
             "isHidden": "yes",
-            "height": "MEDIUM",
+            "height": "SMALL",
             "alignment": "CENTER",
             "opponentAlignment": false,
             "noAutoPayTo": false,
@@ -320,7 +321,7 @@
           "Endurance": {
             "title": "Endurance",
             "isHidden": "no",
-            "height": "MEDIUM",
+            "height": "SMALL",
             "alignment": "CENTER",
             "opponentAlignment": false,
             "noAutoPayTo": false,
