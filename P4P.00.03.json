@@ -58,6 +58,8 @@
       "sections": {
         "customSections": [
           "Starting Action",
+          "Training",
+          "Adrenaline",
           "Fighter"
         ],
         "layout": {
