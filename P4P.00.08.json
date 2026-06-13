@@ -1,9 +1,9 @@
 {
   "name": "P4P",
-  "menuBackgroundImage": "https://jonpacaldo.github.io/P4P_Game/Col Small.png",
+  "menuBackgroundImage": "https://jonpacaldo.github.io/P4P_Game/Col MEDIUM.png",
   "defaultRessources": {
     "backgrounds": [
-      "https://jonpacaldo.github.io/P4P_Game/Col Small.png"
+      "https://jonpacaldo.github.io/P4P_Game/Col MEDIUM.png"
     ],
     "decksUrl": ""
   },
@@ -93,11 +93,11 @@
               "content": [
                 {
                   "section": "Training",
-                  "style": false
+                  "style": "width":300
                 },
                 {
                   "section": "Fighter",
-                  "style": false
+                  "style": "width":300
                 },
                 {
                   "section": "Defense",
@@ -272,7 +272,7 @@
           "Training": {
             "title": "Training",
             "isHidden": "no",
-            "height": "SMALL",
+            "height": "MEDIUM",
             "alignment": "CENTER",
             "opponentAlignment": false,
             "noAutoPayTo": false,
@@ -288,7 +288,7 @@
           "Adrenaline": {
             "title": "Adrenaline",
             "isHidden": "no",
-            "height": "SMALL",
+            "height": "MEDIUM",
             "alignment": "CENTER",
             "opponentAlignment": false,
             "noAutoPayTo": false,
@@ -304,7 +304,7 @@
           "Defense": {
             "title": "Defense",
             "isHidden": "yes",
-            "height": "SMALL",
+            "height": "MEDIUM",
             "alignment": "CENTER",
             "opponentAlignment": false,
             "noAutoPayTo": false,
@@ -320,7 +320,7 @@
           "Endurance": {
             "title": "Endurance",
             "isHidden": "no",
-            "height": "SMALL",
+            "height": "MEDIUM",
             "alignment": "CENTER",
             "opponentAlignment": false,
             "noAutoPayTo": false,
