@@ -74,7 +74,9 @@
               "content": [
                 {
                   "section": "Adrenaline",
-                  "style": false
+                  "style": {
+                    "width": 200
+                  }
                 },
                 {
                   "section": "Starting Action",
@@ -82,7 +84,9 @@
                 },
                 {
                   "section": "Endurance",
-                  "style": false
+                  "style": {
+                    "width": 200
+                  }
                 }
               ],
               "isSymetricalForOpponents": false
@@ -93,11 +97,15 @@
               "content": [
                 {
                   "section": "Training",
-                  "style": false
+                  "style": {
+                    "width": 200
+                  }
                 },
                 {
                   "section": "Fighter",
-                  "style": false
+                  "style": {
+                    "width": 200
+                  }
                 },
                 {
                   "section": "Defense",
@@ -245,7 +253,7 @@
             "opponentAlignment": false,
             "noAutoPayTo": "true",
             "isHorizontalAllowed": false,
-            "displayedTitle": "Starting Action",
+            "displayedTitle": "Ressources",
             "enterTapped": false,
             "enterSpun": false,
             "isGroupForbidden": false,
@@ -288,7 +296,7 @@
           "Adrenaline": {
             "title": "Adrenaline",
             "isHidden": "no",
-            "height": "SMALL",
+            "height": "MEDIUM",
             "alignment": "CENTER",
             "opponentAlignment": false,
             "noAutoPayTo": false,
@@ -304,7 +312,7 @@
           "Defense": {
             "title": "Defense",
             "isHidden": "yes",
-            "height": "MEDIUM",
+            "height": "SMALL",
             "alignment": "CENTER",
             "opponentAlignment": false,
             "noAutoPayTo": false,
