@@ -12,10 +12,11 @@
       }
     },
     "name": "Bayani",
-    "type": "Power",
+    "type": "Fighter",
     "cost": 0,
     "Attack": false,
-    "Fighter": true
+    "Stamina": false,
+    "Power": true
   },
   "P4P_2": {
     "id": "P4P_2",
@@ -30,7 +31,7 @@
       }
     },
     "name": "Jab",
-    "type": "false",
+    "type": "Attack",
     "cost": 0
   },
   "P4P_3": {
@@ -46,9 +47,8 @@
       }
     },
     "name": "Right Cross",
-    "type": "false",
-    "cost": 0,
-    "Attack": true
+    "type": "Attack",
+    "cost": 0
   },
   "P4P_4": {
     "id": "P4P_4",
@@ -63,9 +63,8 @@
       }
     },
     "name": "Low Jab",
-    "type": "false",
-    "cost": 0,
-    "Attack": true
+    "type": "Attack",
+    "cost": 0
   },
   "P4P_5": {
     "id": "P4P_5",
@@ -80,9 +79,8 @@
       }
     },
     "name": "Right Hook",
-    "type": "false",
-    "cost": 0,
-    "Attack": true
+    "type": "Attack",
+    "cost": 0
   },
   "P4P_6": {
     "id": "P4P_6",
@@ -97,9 +95,9 @@
       }
     },
     "name": "Liver Shot",
-    "type": "Power",
+    "type": "Attack",
     "cost": 0,
-    "Attack": true
+    "Power": true
   },
   "P4P_7": {
     "id": "P4P_7",
@@ -114,9 +112,9 @@
       }
     },
     "name": "Heavy Upper",
-    "type": "Power",
+    "type": "Attack",
     "cost": 0,
-    "Attack": true
+    "Power": true
   },
   "P4P_8": {
     "id": "P4P_8",
@@ -131,9 +129,8 @@
       }
     },
     "name": "Slip Hook",
-    "type": false,
-    "cost": 0,
-    "Attack": true
+    "type": "Attack",
+    "cost": 0
   },
   "P4P_9": {
     "id": "P4P_9",
@@ -148,10 +145,10 @@
       }
     },
     "name": "Shovel Hook",
-    "type": "Power",
+    "type": "Attack",
     "cost": 0,
     "Speed": false,
-    "Attack": true
+    "Power": true
   },
   "P4P_10": {
     "id": "P4P_10",
@@ -166,11 +163,10 @@
       }
     },
     "name": "Get Off Me",
-    "type": "Adrenaline",
-    "cost": 0,
-    "Power": false,
+    "type": "Attack",
+    "cost": "1",
     "Speed": false,
-    "Attack": true
+    "Adrenaline": true
   },
   "P4P_11": {
     "id": "P4P_11",
@@ -185,11 +181,10 @@
       }
     },
     "name": "Unfair Trade",
-    "type": "Adrenaline",
-    "cost": 0,
-    "Power": false,
+    "type": "Attack",
+    "cost": "2",
     "Speed": false,
-    "Attack": true
+    "Adrenaline": true
   },
   "P4P_13": {
     "id": "P4P_13",
@@ -204,9 +199,325 @@
       }
     },
     "name": "Haymaker",
-    "type": "Speed",
+    "type": "Attack",
+    "cost": "3",
+    "Power": false,
+    "Speed": false,
+    "Adrenaline": true
+  },
+  "P4P_14": {
+    "id": "P4P_14",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "",
+        "type": false,
+        "cost": 0,
+        "image": "https://jonpacaldo.github.io/P4P_Game/Bayani/Adrenaline_Rush.jpg",
+        "isHorizontal": false
+      }
+    },
+    "name": "Adrenaline Rush",
+    "type": "Attack",
+    "cost": "3",
+    "Power": false,
+    "Speed": false,
+    "Stamina": false,
+    "Vitality": false,
+    "Adrenaline": true
+  },
+  "P4P_15": {
+    "id": "P4P_",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "",
+        "type": false,
+        "cost": 0,
+        "image": "https://jonpacaldo.github.io/P4P_Game/Bayani/Combo_Ready.jpg",
+        "isHorizontal": false
+      }
+    },
+    "name": "Combo Ready",
+    "type": "Mental Stack",
+    "cost": "1",
+    "Power": false,
+    "Speed": false,
+    "Stamina": false,
+    "Vitality": false,
+    "Adrenaline": false
+  },
+  "P4P_16": {
+    "id": "P4P_16",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "",
+        "type": false,
+        "cost": 0,
+        "image": "https://jonpacaldo.github.io/P4P_Game/Bayani/Double_Down.jpg",
+        "isHorizontal": false
+      }
+    },
+    "name": "Double Down",
+    "type": "Mental Stack",
+    "cost": "1",
+    "Power": false,
+    "Speed": false,
+    "Stamina": false,
+    "Vitality": false,
+    "Adrenaline": false
+  },
+  "P4P_17": {
+    "id": "P4P_17",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "",
+        "type": false,
+        "cost": 0,
+        "image": "https://jonpacaldo.github.io/P4P_Game/Defense/Block.png",
+        "isHorizontal": false
+      }
+    },
+    "name": "Block",
+    "type": "Defense",
     "cost": 0,
     "Power": false,
-    "Speed": false
+    "Speed": false,
+    "Stamina": false,
+    "Vitality": false,
+    "Adrenaline": false
+  },
+  "P4P_18": {
+    "id": "P4P_18",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "",
+        "type": false,
+        "cost": 0,
+        "image": "https://jonpacaldo.github.io/P4P_Game/Defense/Low Block.png",
+        "isHorizontal": false
+      }
+    },
+    "name": "Low Block",
+    "type": "Defense",
+    "cost": 0,
+    "Power": false,
+    "Speed": false,
+    "Stamina": false,
+    "Vitality": false,
+    "Adrenaline": false
+  },
+  "P4P_19": {
+    "id": "P4P_19",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "",
+        "type": false,
+        "cost": 0,
+        "image": "https://jonpacaldo.github.io/P4P_Game/Defense/Parry.png",
+        "isHorizontal": false
+      }
+    },
+    "name": "Parry",
+    "type": "Defense",
+    "cost": 0,
+    "Power": false,
+    "Speed": false,
+    "Stamina": false,
+    "Vitality": false,
+    "Adrenaline": false
+  },
+  "P4P_20": {
+    "id": "P4P_20",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "",
+        "type": false,
+        "cost": 0,
+        "image": "https://jonpacaldo.github.io/P4P_Game/Training/Cant_Touch_This.jpg",
+        "isHorizontal": false
+      }
+    },
+    "name": "Cant Touch This",
+    "type": "Training",
+    "cost": 0,
+    "Power": false,
+    "Speed": false,
+    "Stamina": false,
+    "Vitality": false,
+    "Adrenaline": false
+  },
+  "P4P_21": {
+    "id": "P4P_21",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "",
+        "type": false,
+        "cost": 0,
+        "image": "https://jonpacaldo.github.io/P4P_Game/Training/Heart_Stopper.jpg",
+        "isHorizontal": false
+      }
+    },
+    "name": "Heart Stopper",
+    "type": "Training",
+    "cost": 0,
+    "Power": false,
+    "Speed": false,
+    "Stamina": false,
+    "Vitality": false,
+    "Adrenaline": false
+  },
+  "P4P_22": {
+    "id": "P4P_22",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "",
+        "type": false,
+        "cost": 0,
+        "image": "https://jonpacaldo.github.io/P4P_Game/Training/Heavy_Diet.jpg",
+        "isHorizontal": false
+      }
+    },
+    "name": "Heavy Diet",
+    "type": "Training",
+    "cost": 0,
+    "Power": false,
+    "Speed": false,
+    "Stamina": false,
+    "Vitality": false,
+    "Adrenaline": false
+  },
+  "P4P_23": {
+    "id": "P4P_23",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "",
+        "type": false,
+        "cost": 0,
+        "image": "https://jonpacaldo.github.io/P4P_Game/Training/Loose_Technique.jpg",
+        "isHorizontal": false
+      }
+    },
+    "name": "Loose Technique",
+    "type": "Training",
+    "cost": 0,
+    "Power": false,
+    "Speed": false,
+    "Stamina": false,
+    "Vitality": false,
+    "Adrenaline": false
+  },
+  "P4P_24": {
+    "id": "P4P_24",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "",
+        "type": false,
+        "cost": 0,
+        "image": "https://jonpacaldo.github.io/P4P_Game/Training/Marathons.jpg",
+        "isHorizontal": false
+      }
+    },
+    "name": "Marathons",
+    "type": "Training",
+    "cost": 0,
+    "Power": false,
+    "Speed": false,
+    "Stamina": false,
+    "Vitality": false,
+    "Adrenaline": false
+  },
+  "P4P_25": {
+    "id": "P4P_25",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "",
+        "type": false,
+        "cost": 0,
+        "image": "https://jonpacaldo.github.io/P4P_Game/Training/Meditation.jpg",
+        "isHorizontal": false
+      }
+    },
+    "name": "Meditation",
+    "type": "Training",
+    "cost": 0,
+    "Power": false,
+    "Speed": false,
+    "Stamina": false,
+    "Vitality": false,
+    "Adrenaline": false
+  },
+  "P4P_26": {
+    "id": "P4P_26",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "",
+        "type": false,
+        "cost": 0,
+        "image": "https://jonpacaldo.github.io/P4P_Game/Training/Tactician.jpg",
+        "isHorizontal": false
+      }
+    },
+    "name": "Tactician",
+    "type": "Training",
+    "cost": 0,
+    "Power": false,
+    "Speed": false,
+    "Stamina": false,
+    "Vitality": false,
+    "Adrenaline": false
+  },
+  "P4P_27": {
+    "id": "P4P_27",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "",
+        "type": false,
+        "cost": 0,
+        "image": "https://jonpacaldo.github.io/P4P_Game/Training/The_Best_Defense.jpg",
+        "isHorizontal": false
+      }
+    },
+    "name": "The Best Defense",
+    "type": "Training",
+    "cost": 0,
+    "Power": false,
+    "Speed": false,
+    "Stamina": false,
+    "Vitality": false,
+    "Adrenaline": false
+  },
+  "P4P_28": {
+    "id": "P4P_28",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "",
+        "type": false,
+        "cost": 0,
+        "image": "https://jonpacaldo.github.io/P4P_Game/Training/Will_to_Win.jpg",
+        "isHorizontal": false
+      }
+    },
+    "name": "Will to Win",
+    "type": "Training",
+    "cost": 0,
+    "Power": false,
+    "Speed": false,
+    "Stamina": false,
+    "Vitality": false,
+    "Adrenaline": false
   }
 }
