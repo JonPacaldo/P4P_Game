@@ -864,7 +864,7 @@
         "type": false,
         "cost": 0,
         "image": "https://jonpacaldo.github.io/P4P_Game/Stages/Jackie's Gym.jpg",
-        "isHorizontal": true
+        "isHorizontal": false,
       }
     },
     "name": "Jackie's Gym",
