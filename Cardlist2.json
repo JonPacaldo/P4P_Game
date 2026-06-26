@@ -705,7 +705,7 @@
       }
     },
     "name": "Shin Buster",
-    "type": "attack",
+    "type": "Attack",
     "cost": 4,
     "Attack": false,
     "Stamina": false,
