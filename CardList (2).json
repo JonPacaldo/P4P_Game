@@ -770,5 +770,26 @@
     "Speed": false,
     "Adrenaline": true,
     "Vitality": false
+  },
+  "P4P_39": {
+    "id": "P4P_39",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "",
+        "type": false,
+        "cost": 0,
+        "image": "https://jonpacaldo.github.io/P4P_Game/Mental_Stack/Bullet_Time.jpg",
+        "isHorizontal": false
+      }
+    },
+    "name": "Bullet Time",
+    "type": "Mental Stack",
+    "cost": 4,
+    "Stamina": false,
+    "Power": false,
+    "Speed": false,
+    "Adrenaline": false,
+    "Vitality": false
   }
 }
