@@ -62,7 +62,7 @@
           "Adrenaline",
           "Fighter",
           "Defense",
-          "Endurance"
+          "Stage"
         ],
         "layout": {
           "direction": "column",
@@ -83,7 +83,7 @@
                   "style": false
                 },
                 {
-                  "section": "Endurance",
+                  "section": "Stage",
                   "style": {
                     "width": 300
                   }
