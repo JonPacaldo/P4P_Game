@@ -1,9 +1,9 @@
 {
   "title": "Bayani",
-  "id": "fccbcc86-1331-4e2d-84d0-0fc29bd8c7c0",
-  "cardCount": 55,
-  "createdAt": "2026-06-21T20:01:42.662Z",
-  "lastModifiedAt": "2026-06-21T20:08:40.891Z",
+  "id": "45c063fe-5fc2-4793-91bd-aabcf12c0c76",
+  "cardCount": 57,
+  "createdAt": "2026-06-26T22:44:33.517Z",
+  "lastModifiedAt": "2026-06-26T22:44:51.873Z",
   "game": "Pound for Pound",
   "format": [
     "Standard"
@@ -12,9 +12,10 @@
     "categoriesOrder": [
       "Fighter",
       "Attack",
-      "Mental",
+      "Mental Stack",
       "Defense",
-      "Training"
+      "Training",
+      "Stage"
     ],
     "Fighter": [
       {
@@ -72,7 +73,7 @@
         "id": "P4P_14"
       }
     ],
-    "Mental": [
+    "Mental Stack": [
       {
         "count": 3,
         "id": "P4P_15"
@@ -100,6 +101,16 @@
       {
         "count": 1,
         "id": "P4P_28"
+      }
+    ],
+    "Stage": [
+      {
+        "count": 1,
+        "id": "P4P_43"
+      },
+      {
+        "count": 1,
+        "id": "P4P_45"
       }
     ]
   }
