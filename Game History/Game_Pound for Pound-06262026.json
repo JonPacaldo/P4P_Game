@@ -1,11 +1,11 @@
 {
   "name": "Pound for Pound",
-  "menuBackgroundImage": "https://jonpacaldo.github.io/P4P_Game/Art/Col small.png",
+  "menuBackgroundImage": "https://jonpacaldo.github.io/P4P_Game/Col small.png",
   "defaultRessources": {
     "backgrounds": [
-      "https://jonpacaldo.github.io/P4P_Game/Art/Col small.png"
+      "https://jonpacaldo.github.io/P4P_Game/Col small.png"
     ],
-    "decksUrl": "https://jonpacaldo.github.io/P4P_Game/Starter Decks.json"
+    "decksUrl": ""
   },
   "customHelp": "WIP",
   "cardRotation": "90",
@@ -17,8 +17,7 @@
     "mainFilters": [
       "Fighter",
       "Attack",
-      "Defense",
-      "Training"
+      "Defense"
     ],
     "formats": [
       {
@@ -84,7 +83,7 @@
                   "style": false
                 },
                 {
-                  "section": "Stage",
+                  "section": "Endurance",
                   "style": {
                     "width": 300
                   }
@@ -119,9 +118,9 @@
         },
         "categoriesAlreadyOnBoard": [
           "Fighter",
-          "Stage",
           "Training",
-          "Defense"
+          "Defense",
+          "Stage"
         ],
         "autoPlayFromHand": {
           "Attack": "Starting Action"
@@ -329,9 +328,9 @@
             "keepTappedNewTurn": false,
             "showHiddenCardInHistory": false
           },
-          "Stage": {
-            "title": "Stage",
-            "isHidden": "opponent-only",
+          "Endurance": {
+            "title": "Endurance",
+            "isHidden": "no",
             "height": "MEDIUM",
             "alignment": "CENTER",
             "opponentAlignment": false,
