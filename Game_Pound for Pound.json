@@ -5,7 +5,7 @@
     "backgrounds": [
       "https://jonpacaldo.github.io/P4P_Game/Art/Col small.png"
     ],
-    "decksUrl": "https://jonpacaldo.github.io/P4P_Game/Starter Decks.json"
+    "decksUrl": "https://jonpacaldo.github.io/P4P_Game/StarterDecks.json"
   },
   "customHelp": "WIP",
   "cardRotation": "90",
