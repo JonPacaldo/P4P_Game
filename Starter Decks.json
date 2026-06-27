@@ -114,4 +114,124 @@
       }
     ]
   }
+  {
+  "title": "Jackie",
+  "id": "98901c67-3e62-445d-8616-e8dd1d8dfb61",
+  "cardCount": 57,
+  "createdAt": "2026-06-26T22:43:49.169Z",
+  "lastModifiedAt": "2026-06-26T22:44:27.716Z",
+  "game": "Pound for Pound",
+  "format": [
+    "Standard"
+  ],
+  "deckList": {
+    "categoriesOrder": [
+      "Fighter",
+      "Attack",
+      "Defense",
+      "Training",
+      "Mental Stack",
+      "Stage"
+    ],
+    "Fighter": [
+      {
+        "count": 1,
+        "id": "P4P_29"
+      }
+    ],
+    "Attack": [
+      {
+        "count": 4,
+        "id": "P4P_2"
+      },
+      {
+        "count": 4,
+        "id": "P4P_38"
+      },
+      {
+        "count": 4,
+        "id": "P4P_34"
+      },
+      {
+        "count": 4,
+        "id": "P4P_36"
+      },
+      {
+        "count": 4,
+        "id": "P4P_32"
+      },
+      {
+        "count": 4,
+        "id": "P4P_33"
+      },
+      {
+        "count": 3,
+        "id": "P4P_46"
+      },
+      {
+        "count": 3,
+        "id": "P4P_30"
+      },
+      {
+        "count": 3,
+        "id": "P4P_37"
+      },
+      {
+        "count": 3,
+        "id": "P4P_31"
+      },
+      {
+        "count": 3,
+        "id": "P4P_35"
+      },
+      {
+        "count": 3,
+        "id": "P4P_40"
+      }
+    ],
+    "Defense": [
+      {
+        "count": 1,
+        "id": "P4P_19"
+      },
+      {
+        "count": 1,
+        "id": "P4P_18"
+      },
+      {
+        "count": 1,
+        "id": "P4P_17"
+      }
+    ],
+    "Training": [
+      {
+        "count": 1,
+        "id": "P4P_20"
+      }
+    ],
+    "Mental Stack": [
+      {
+        "count": 3,
+        "id": "P4P_42"
+      },
+      {
+        "count": 3,
+        "id": "P4P_41"
+      },
+      {
+        "count": 2,
+        "id": "P4P_39"
+      }
+    ],
+    "Stage": [
+      {
+        "count": 1,
+        "id": "P4P_45"
+      },
+      {
+        "count": 1,
+        "id": "P4P_44"
+      }
+    ]
+  }
 }
