@@ -275,7 +275,7 @@
         "name": "",
         "type": false,
         "cost": 0,
-        "image": "https://jonpacaldo.github.io/P4P_Game/Defense/Block.png",
+        "image": "https://jonpacaldo.github.io/P4P_Game/Defense/Block.jpg",
         "isHorizontal": false
       }
     },
@@ -296,7 +296,7 @@
         "name": "",
         "type": false,
         "cost": 0,
-        "image": "https://jonpacaldo.github.io/P4P_Game/Defense/Low Block.png",
+        "image": "https://jonpacaldo.github.io/P4P_Game/Defense/Low Block.jpg",
         "isHorizontal": false
       }
     },
@@ -317,7 +317,7 @@
         "name": "",
         "type": false,
         "cost": 0,
-        "image": "https://jonpacaldo.github.io/P4P_Game/Defense/Parry.png",
+        "image": "https://jonpacaldo.github.io/P4P_Game/Defense/Parry.jpg",
         "isHorizontal": false
       }
     },
