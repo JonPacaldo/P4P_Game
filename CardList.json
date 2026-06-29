@@ -843,7 +843,7 @@
         "type": false,
         "cost": 0,
         "image": "https://jonpacaldo.github.io/P4P_Game/Stages/The Alps.jpg",
-        "isHorizontal": false
+        "isHorizontal": true
       }
     },
     "name": "The Alps",
@@ -864,7 +864,7 @@
         "type": false,
         "cost": 0,
         "image": "https://jonpacaldo.github.io/P4P_Game/Stages/Jackie's Gym.jpg",
-        "isHorizontal": false
+        "isHorizontal": true
       }
     },
     "name": "Jackie's Gym",
@@ -885,7 +885,7 @@
         "type": false,
         "cost": 0,
         "image": "https://jonpacaldo.github.io/P4P_Game/Jackie/Tireless_Sweep.jpg",
-        "isHorizontal": false
+        "isHorizontal": true
       }
     },
     "name": "Tireless Sweep",
