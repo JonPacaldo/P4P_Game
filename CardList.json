@@ -1255,7 +1255,7 @@
     "Vitality": false
   },
   "Throw": {
-    "id": "Throw",
+    "id": "P4P_64",
     "isToken": false,
     "face": {
       "front": {
@@ -1266,7 +1266,7 @@
         "isHorizontal": false
       }
     },
-    "name": "P4P_64",
+    "name": "Throw",
     "type": "Attack",
     "cost": 0,
     "Stamina": false,
