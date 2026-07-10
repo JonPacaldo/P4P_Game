@@ -1077,7 +1077,7 @@
         "isHorizontal": false
       }
     },
-    "name": "Body_Up",
+    "name": "Body Up",
     "type": "Attack",
     "cost": 0,
     "Stamina": false,
