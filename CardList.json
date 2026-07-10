@@ -1246,7 +1246,7 @@
       }
     },
     "name": "Slide Tackle",
-    "type": false,
+    "type": "Attack",
     "cost": 0,
     "Stamina": false,
     "Power": false,
