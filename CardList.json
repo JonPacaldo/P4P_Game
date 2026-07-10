@@ -896,5 +896,110 @@
     "Speed": false,
     "Adrenaline": false,
     "Vitality": false
+  },
+  "P4P_47": {
+    "id": "P4P_47",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "",
+        "type": false,
+        "cost": 0,
+        "image": "https://jonpacaldo.github.io/P4P_Game/Mental Stack/Body_of_Iron.jpg",
+        "isHorizontal": false
+      }
+    },
+    "name": "Body of Iron",
+    "type": "Mental Stack",
+    "cost": "4",
+    "Stamina": false,
+    "Power": false,
+    "Speed": false,
+    "Adrenaline": false,
+    "Vitality": false
+  },
+  "P4P_48": {
+    "id": "P4P_48",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "",
+        "type": false,
+        "cost": 0,
+        "image": "https://jonpacaldo.github.io/P4P_Game/Mental Stack/Feint.jpg",
+        "isHorizontal": false
+      }
+    },
+    "name": "Feint",
+    "type": "Mental Stack",
+    "cost": "2",
+    "Stamina": false,
+    "Power": false,
+    "Speed": false,
+    "Adrenaline": false,
+    "Vitality": false
+  },
+  "P4P_49": {
+    "id": "P4P_49",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "",
+        "type": false,
+        "cost": 0,
+        "image": "https://jonpacaldo.github.io/P4P_Game/Mental Stack/Iron_Jaw.jpg",
+        "isHorizontal": false
+      }
+    },
+    "name": "Iron Jaw",
+    "type": "Mental Stack",
+    "cost": "1",
+    "Stamina": false,
+    "Power": false,
+    "Speed": false,
+    "Adrenaline": false,
+    "Vitality": false
+  },
+  "P4P_50": {
+    "id": "P4P_50",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "",
+        "type": false,
+        "cost": 0,
+        "image": "https://jonpacaldo.github.io/P4P_Game/Mental Stack/Ironclad.jpg",
+        "isHorizontal": false
+      }
+    },
+    "name": "Iron Clad",
+    "type": "Mental Stack",
+    "cost": "2",
+    "Stamina": false,
+    "Power": false,
+    "Speed": false,
+    "Adrenaline": false,
+    "Vitality": false
+  },
+  "P4P_51": {
+    "id": "P4P_51",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "",
+        "type": false,
+        "cost": 0,
+        "image": "https://jonpacaldo.github.io/P4P_Game/Mental Stack/Think_Ahead.jpg",
+        "isHorizontal": false
+      }
+    },
+    "name": "Think Ahead",
+    "type": false,
+    "cost": "3",
+    "Stamina": false,
+    "Power": false,
+    "Speed": false,
+    "Adrenaline": false,
+    "Vitality": false
   }
 }
