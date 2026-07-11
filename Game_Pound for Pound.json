@@ -31,7 +31,7 @@
     "Standard": {
       "mulligan": {
         "info": "Exhaust 2",
-        "startingHandSize": "6",
+        "startingHandSize": "4",
         "drawNewHand": false,
         "putSelectionAtBottom": false,
         "drawNewSelectedCards": true
