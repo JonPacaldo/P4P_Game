@@ -1,119 +1,119 @@
 [
     {
-  "title": "Bayani",
-  "id": "c69df453-720e-4aa7-a055-d2da6049d57f",
-  "cardCount": 57,
-  "createdAt": "2026-06-27T22:13:01.371Z",
-  "lastModifiedAt": "2026-06-27T22:14:06.597Z",
-  "game": "Pound for Pound",
-  "format": [
-    "Standard"
-  ],
-  "deckList": {
-    "categoriesOrder": [
-      "Fighter",
-      "Attack",
-      "Mental Stack",
-      "Defense",
-      "Training",
-      "Stage"
-    ],
-    "Fighter": [
-      {
-        "count": 1,
-        "id": "P4P_1"
+      "title": "Bayani",
+      "id": "c69df453-720e-4aa7-a055-d2da6049d57f",
+      "cardCount": 57,
+      "createdAt": "2026-06-27T22:13:01.371Z",
+      "lastModifiedAt": "2026-06-27T22:14:06.597Z",
+      "game": "Pound for Pound",
+      "format": [
+        "Standard"
+      ],
+      "deckList": {
+        "categoriesOrder": [
+          "Fighter",
+          "Attack",
+          "Mental Stack",
+          "Defense",
+          "Training",
+          "Stage"
+        ],
+        "Fighter": [
+          {
+            "count": 1,
+            "id": "P4P_1"
+          }
+        ],
+        "Attack": [
+          {
+            "count": 4,
+            "id": "P4P_2"
+          },
+          {
+            "count": 4,
+            "id": "P4P_3"
+          },
+          {
+            "count": 4,
+            "id": "P4P_4"
+          },
+          {
+            "count": 4,
+            "id": "P4P_5"
+          },
+          {
+            "count": 4,
+            "id": "P4P_6"
+          },
+          {
+            "count": 4,
+            "id": "P4P_7"
+          },
+          {
+            "count": 4,
+            "id": "P4P_8"
+          },
+          {
+            "count": 4,
+            "id": "P4P_9"
+          },
+          {
+            "count": 3,
+            "id": "P4P_10"
+          },
+          {
+            "count": 3,
+            "id": "P4P_11"
+          },
+          {
+            "count": 3,
+            "id": "P4P_13"
+          },
+          {
+            "count": 3,
+            "id": "P4P_14"
+          }
+        ],
+        "Mental Stack": [
+          {
+            "count": 3,
+            "id": "P4P_15"
+          },
+          {
+            "count": 3,
+            "id": "P4P_16"
+          }
+        ],
+        "Defense": [
+          {
+            "count": 1,
+            "id": "P4P_17"
+          },
+          {
+            "count": 1,
+            "id": "P4P_18"
+          },
+          {
+            "count": 1,
+            "id": "P4P_19"
+          }
+        ],
+        "Training": [
+          {
+            "count": 1,
+            "id": "P4P_28"
+          }
+        ],
+        "Stage": [
+          {
+            "count": 1,
+            "id": "P4P_43"
+          },
+          {
+            "count": 1,
+            "id": "P4P_45"
+          }
+        ]
       }
-    ],
-    "Attack": [
-      {
-        "count": 4,
-        "id": "P4P_2"
-      },
-      {
-        "count": 4,
-        "id": "P4P_3"
-      },
-      {
-        "count": 4,
-        "id": "P4P_4"
-      },
-      {
-        "count": 4,
-        "id": "P4P_5"
-      },
-      {
-        "count": 4,
-        "id": "P4P_6"
-      },
-      {
-        "count": 4,
-        "id": "P4P_7"
-      },
-      {
-        "count": 4,
-        "id": "P4P_8"
-      },
-      {
-        "count": 4,
-        "id": "P4P_9"
-      },
-      {
-        "count": 3,
-        "id": "P4P_10"
-      },
-      {
-        "count": 3,
-        "id": "P4P_11"
-      },
-      {
-        "count": 3,
-        "id": "P4P_13"
-      },
-      {
-        "count": 3,
-        "id": "P4P_14"
-      }
-    ],
-    "Mental Stack": [
-      {
-        "count": 3,
-        "id": "P4P_15"
-      },
-      {
-        "count": 3,
-        "id": "P4P_16"
-      }
-    ],
-    "Defense": [
-      {
-        "count": 1,
-        "id": "P4P_17"
-      },
-      {
-        "count": 1,
-        "id": "P4P_18"
-      },
-      {
-        "count": 1,
-        "id": "P4P_19"
-      }
-    ],
-    "Training": [
-      {
-        "count": 1,
-        "id": "P4P_28"
-      }
-    ],
-    "Stage": [
-      {
-        "count": 1,
-        "id": "P4P_43"
-      },
-      {
-        "count": 1,
-        "id": "P4P_45"
-      }
-    ]
-  }
-}
+    }
 ]
